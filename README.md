@@ -1,4 +1,4 @@
-# README
+# Led Wall
 
 ![](image.gif)
 
