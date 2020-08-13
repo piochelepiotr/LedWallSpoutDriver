@@ -1,4 +1,5 @@
 # Led Wall
+The DJ is in the center (and we remove the chair before the party).
 
 ![](image.gif)
 
